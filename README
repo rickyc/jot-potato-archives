@@ -1,0 +1,5 @@
+Sinatra on Heroku Template
+===
+Assuming you have heroku setup
+heroku create appname
+git push heroku master
